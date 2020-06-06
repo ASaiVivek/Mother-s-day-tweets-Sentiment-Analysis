@@ -1,4 +1,4 @@
-# Mother-s-day-tweets-Sentiment-Analysis
+# Mother's-day-tweets-Sentiment-Analysis
 ## Natural Language Processing using Tensorflow and Python
 * The code contains more debugging lines to make sure that what data we are handling is correct and also to check if the changed data is fine.
 
